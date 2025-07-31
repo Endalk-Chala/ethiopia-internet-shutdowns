@@ -1,0 +1,11 @@
+Code,Variable Name,Definition,Example
+IB,Internet Blackout,Complete cessation of internet services across all networks,Nationwide blackout
+NS,Network Shutdown,"Disruption targeting specific networks (e.g., mobile or broadband)",Mobile network shutdown in Oromia
+PB,Platform Blockage,"Restriction on access to particular platforms (e.g., Facebook, Twitter)",Facebook and Telegram blocked during national exams
+IS,Internet Slowdown,Deliberate reduction in internet speed below a usable threshold,Internet speeds throttled nationwide during unrest
+REG,Region Affected,"Geographical area affected by the shutdown (e.g., Oromia, Tigray)","Oromia, Amhara"
+DATE,Date,The date or period when the shutdown occurred,June 2020
+DUR,Duration,"Length of time the shutdown lasted (e.g., days, weeks, months)",3 weeks
+SRC,Source,"Report or organization providing the data (e.g., Freedom House)",Amnesty International Report
+CTX,Context/Reason,"Reason for the shutdown as described in the report (e.g., unrest, exams)",Shutdown due to ethnic violence
+NOT,Notes,Additional context or details related to the shutdown event,Notes on technical issues reported by local users

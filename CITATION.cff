@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the published article."
+title: "Research materials for Internet Shutdowns in Ethiopia, 2005–2024"
+type: dataset
+authors:
+  - family-names: "Chala"
+    given-names: "Endalkachew H."
+    orcid: "https://orcid.org/0000-0001-6210-6706"
+  - family-names: "Workneh"
+    given-names: "Téwodros W."
+repository-code: "https://github.com/Endalk-Chala/ethiopia-internet-shutdowns"
+preferred-citation:
+  type: article
+  title: "Internet shutdowns in Ethiopia: Discourses of digital sovereignty and information suppression amid political instability"
+  journal: "New Media & Society"
+  year: 2025
+  doi: "10.1177/14614448251378981"
+  url: "https://doi.org/10.1177/14614448251378981"
+  authors:
+    - family-names: "Chala"
+      given-names: "Endalkachew H."
+      orcid: "https://orcid.org/0000-0001-6210-6706"
+    - family-names: "Workneh"
+      given-names: "Téwodros W."

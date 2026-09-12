@@ -1,20 +1,66 @@
-# Ethiopia Internet Shutdowns Data Repository 
-## Background  
-The April 2018 appointment of Abiy Ahmed as Ethiopia’s Prime Minister ushered in a moment of optimism for political reform and digital openness, including promises to lift censorship and end state-imposed internet shutdowns (EBC, 2018; Maasho, 2018). Yet, within months, escalating ethnic tensions and political crises prompted the government to reintroduce shutdowns—from targeted platform blocks around Addis Ababa to nationwide blackouts in the wake of high-profile assassinations (Dahir, 2018; NetBlocks, 2019). The subsequent Tigray War (2020–2022) produced some of Ethiopia’s longest and most far-reaching internet blackouts, and continuing unrest in the Amhara and Oromia regions has further entrenched digital disconnection as a core element of state security policy (AccessNow, 2022; Ayalew, 2020; Haile, 2024).  
-These developments reveal a persistent tension between aspirations for democratic reform and the state’s invocation of “digital sovereignty” to justify connectivity restrictions. Against this backdrop, our research investigates how the frequency, scope, and duration of shutdowns have evolved over the past two decades—and how official narratives have shifted in response to changing political and security dynamics.  
+# Internet Shutdowns in Ethiopia, 2005–2024
 
-## Research Questions  
-1. **Trend Evolution:** How have the frequency, geographic coverage, and duration of internet shutdowns in Ethiopia changed over the past two decades?  
-2. **Narrative Shifts:** How have shifting political conditions and ethnic conflicts influenced government narratives and policy rhetoric legitimizing shutdowns?
+Research data and documentation supporting the published article:
 
-## Data & Methodology  
-- **Sources:** A comprehensive spreadsheet of NGO trackers, archival reports, and media coverage.  
-- **Quantitative Analysis:** Time-series modeling of shutdown events (monthly counts, durations, trend/seasonal decomposition).  
-- **Contextual Analysis:** Mapping key official statements onto the quantitative timeline to examine evolving governance rationales.
+**Chala, Endalkachew H., & Téwodros W. Workneh (2025). “Internet shutdowns in Ethiopia: Discourses of digital sovereignty and information suppression amid political instability.” _New Media & Society_.**  
+[https://doi.org/10.1177/14614448251378981](https://doi.org/10.1177/14614448251378981)
 
-## Data Availability  
-All source documents, the full data-collection spreadsheet, and analysis code are available upon request during blind peer review and will be published in a public GitHub repository upon acceptance.
+## Study overview
 
-## License  
-This project is licensed under the MIT License.  
-# ethiopia-internet-shutdowns
+This project examines internet shutdowns in Ethiopia between 2005 and 2024, focusing on their frequency, duration, geographic scope, stated rationales, and relationship to broader claims of digital sovereignty and political control.
+
+The published study combines quantitative analysis of shutdown events with qualitative analysis of government narratives. It distinguishes four forms of disruption:
+
+- internet blackouts;
+- network shutdowns;
+- platform blockages; and
+- internet slowdowns.
+
+The article finds that shutdowns shifted from relatively sporadic interventions to more sustained and targeted forms of information control, especially during periods of political instability and conflict.
+
+## Research questions
+
+The project asks:
+
+1. How did the frequency, scope, and duration of internet shutdowns in Ethiopia change between 2005 and 2024?
+2. How did official narratives used to justify shutdowns change across political periods and security crises?
+3. How can Ethiopia’s shutdown practices be understood through debates over digital sovereignty, platform accountability, and political repression?
+
+## Repository contents
+
+This repository contains the event data, source registry, coding materials, and supporting documentation used in the project.
+
+Key files include:
+
+- `Internet Shutdowns in Ethiopia (2005-2024) Shutdown Data Complete.csv`
+- `Internet Shutdowns in Ethiopia (2005-2024), Regions, Causes, and Types - Shutdown Data.csv`
+- `Data Sources & Archives.csv`
+- `Code book.csv`
+
+## Data and method
+
+The dataset draws on NGO shutdown trackers, archival reports, media documentation, and other publicly available records. Events were standardized across dates, locations, causes, and shutdown types before analysis.
+
+The quantitative component examines event counts, duration, timing, geographic concentration, and shutdown type. The qualitative component analyzes official and public-facing narratives used to explain or legitimize restrictions.
+
+## Published article
+
+**Internet shutdowns in Ethiopia: Discourses of digital sovereignty and information suppression amid political instability**  
+_New Media & Society_  
+First published online October 9, 2025  
+DOI: [10.1177/14614448251378981](https://doi.org/10.1177/14614448251378981)
+
+## Citation
+
+Please cite the published article when using findings from this project. Repository citation metadata is provided in [`CITATION.cff`](CITATION.cff).
+
+## Authors
+
+**Endalkachew H. Chala**  
+[ORCID](https://orcid.org/0000-0001-6210-6706) · [Academic website](https://endalk-chala.github.io/)
+
+**Téwodros W. Workneh**
+
+## License
+
+Code and original repository materials are covered by the repository license. Source materials remain subject to the rights and terms of their original publishers.
